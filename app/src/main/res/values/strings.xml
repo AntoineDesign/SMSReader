@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMSReader</string>
+    <string name="sms_label">Latest SMS</string>
+    <string name="none">None</string>
+    <string name="speech_toggle_on">Start speaking.</string>
+    <string name="speech_toggle_off">Stop speaking</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start_speaking">Okay! I will read your messages aloud now.</string>
+    <string name="stop_speaking">Okay! I will be quiet now.</string>
+</resources>
